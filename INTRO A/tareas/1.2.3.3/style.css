@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.azul{
+    background-color: rgb(119, 186, 11);
+}
+.chico{
+    height: 200px;
+    margin: 10px;
+}
+
+.grande{
+    height: 150px;
+    margin: 10px;
+}
+.container{
+    height: 100px;
+    margin: 10px;
+    overflow: hidden;
+}
+.mediano{
+ height: 100px ;
+ min-width: 49%;
+ float: left;
+}
+.margin-derecho{
+
+    background-color: rgb(52, 6, 107);
+    margin-left: 10px;
+}
+.margin-abajo {
+    margin-bottom: 10px;
+}
+div:last-child{
+    margin-right: 10px;
+}

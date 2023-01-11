@@ -1,0 +1,50 @@
+.bandera {
+    border: 1px solid black;
+    height: 400px;
+    width: 600px;
+    position: relative;
+}
+
+.azul1 {
+    height: 180px;
+    width: 280px;
+    background-color: rgb(232, 10, 10);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+
+.rojo1 {
+    height: 180px;
+    width: 280px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+ 
+.escudo{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(242, 207, 10);
+  
+}
+
+.rojo2 {
+    height: 180px;
+    width: 280px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.azul2 {
+    height: 180px;
+    width: 280px;
+    background-color: rgb(232, 6, 6);
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}

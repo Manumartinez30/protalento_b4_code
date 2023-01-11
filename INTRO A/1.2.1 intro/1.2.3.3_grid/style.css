@@ -1,0 +1,14 @@
+.contenedor{
+    background-color: red;
+    display: grid;
+    grid-template-columns: repeat( 5,20%);
+    grid-template-rows:auto ;    
+}
+
+
+.hijo{
+    background-color: white;
+    width: 10vw;
+    min-height: 20vw;
+    margin: 3vw;
+}

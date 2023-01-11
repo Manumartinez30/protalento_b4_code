@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family: inherit;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-image: url("ims/cata6.jpeg");
+}
+
+.header,
+.main,
+.footer {
+    margin: 24px;
+
+}
+
+.input_label {
+    margin: 12px;
+    /* height: 300px; */
+}
+
+.label,
+.input {
+    display: block;
+}
+
+.input,
+table {
+    margin: auto;
+}
+
+
+
+.logo-faceb img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.logo-twit img {
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.logo-inst img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.logo-yout img {
+    height: 100px;
+        width: 100px;
+        border-radius: 50px;
+}
+
+.loder {
+    display: flex;
+    justify-content: space-around
+}
+
+
+
+/*
+.input{
+    margin-left: 510px;
+} */

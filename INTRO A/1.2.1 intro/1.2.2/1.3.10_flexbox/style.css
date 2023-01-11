@@ -1,0 +1,16 @@
+.padre {
+    background-color: rgba(176, 235, 14, 0.763), 0, 0);
+    display: flex;
+    
+}
+
+.hijo {
+    width: 80px;
+    height: ;
+    margin: ;
+    color: azure;
+    display: flex;
+}
+.H1{
+    color: aqua;
+}
